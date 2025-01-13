@@ -74,7 +74,7 @@ def download_article(url, title, date_str, max_retries=2, retry_delay=5):
             ]
             
             logging.info(f"Downloading: {title} (Attempt {attempt + 1}/{max_retries})")
-            process = subprocess.run(chrome_cmd, capture_output=True, text=True, timeout=30)
+            process = subprocess.run(chrome_cmd, capture_output=True, text=True, timeout=60)
             
             # Log Chrome's stderr if any
             if process.stderr:
