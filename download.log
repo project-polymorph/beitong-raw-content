@@ -2318,3 +2318,399 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 2025-01-13 06:00:15,374 - INFO - Successfully downloaded: 面对亲友出柜应该如何提供妥帖支持？15条建议 (size: 2441395 bytes)
 2025-01-13 06:00:15,374 - INFO - Progress: 92/4740 - Success: 91, Failed: 1
 2025-01-13 06:00:15,375 - INFO - Sleeping for 24.26 seconds...
+2025-01-13 06:00:39,633 - INFO - Downloading: 叮咚！北同2月活动月历来啦，请查收❤️ (Attempt 1/2)
+2025-01-13 06:00:46,381 - WARNING - Chrome stderr: [59096:59122:0113/060039.712624:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[59096:59125:0113/060039.714399:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[59096:59125:0113/060039.714499:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:00:46,390 - INFO - Successfully downloaded: 叮咚！北同2月活动月历来啦，请查收❤️ (size: 2546842 bytes)
+2025-01-13 06:00:46,391 - INFO - Progress: 95/4740 - Success: 92, Failed: 1
+2025-01-13 06:00:46,391 - INFO - Sleeping for 26.53 seconds...
+2025-01-13 06:01:12,921 - INFO - Downloading: 志愿者工作坊升级！首期「艾滋病与法律」多元大讲堂来啦 (Attempt 1/2)
+2025-01-13 06:01:19,748 - WARNING - Chrome stderr: [59704:59731:0113/060113.021427:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[59704:59731:0113/060113.033096:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[59704:59731:0113/060113.033218:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples...
+2025-01-13 06:01:19,756 - INFO - Successfully downloaded: 志愿者工作坊升级！首期「艾滋病与法律」多元大讲堂来啦 (size: 2417519 bytes)
+2025-01-13 06:01:19,756 - INFO - Progress: 93/4740 - Success: 93, Failed: 1
+2025-01-13 06:01:19,757 - INFO - Sleeping for 5.05 seconds...
+2025-01-13 06:01:24,807 - INFO - Downloading: 性别友好又有趣的工作正在向你招手，确定不看看？ (Attempt 1/2)
+2025-01-13 06:01:31,076 - WARNING - Chrome stderr: [60126:60156:0113/060124.893051:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[60126:60156:0113/060124.893176:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[60126:60152:0113/060124.896190:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:01:31,080 - INFO - Successfully downloaded: 性别友好又有趣的工作正在向你招手，确定不看看？ (size: 2376249 bytes)
+2025-01-13 06:01:31,080 - INFO - Progress: 94/4740 - Success: 94, Failed: 1
+2025-01-13 06:01:31,081 - INFO - Sleeping for 4.01 seconds...
+2025-01-13 06:01:35,091 - INFO - Downloading: 为了女儿我下载了热拉：7个同志妈妈的故事 (Attempt 1/2)
+2025-01-13 06:01:41,242 - WARNING - Chrome stderr: [60557:60583:0113/060135.163998:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[60557:60587:0113/060135.166355:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[60557:60587:0113/060135.166453:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:01:41,247 - INFO - Successfully downloaded: 为了女儿我下载了热拉：7个同志妈妈的故事 (size: 2472326 bytes)
+2025-01-13 06:01:41,247 - INFO - Progress: 96/4740 - Success: 95, Failed: 1
+2025-01-13 06:01:41,248 - INFO - Sleeping for 17.57 seconds...
+2025-01-13 06:01:58,817 - INFO - Downloading: 国内大样本量《2021全国跨性别健康调研报告》正式发布！ (Attempt 1/2)
+2025-01-13 06:02:05,356 - WARNING - Chrome stderr: [61096:61122:0113/060158.907996:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[61096:61125:0113/060158.909996:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[61096:61125:0113/060158.910116:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:02:05,361 - INFO - Successfully downloaded: 国内大样本量《2021全国跨性别健康调研报告》正式发布！ (size: 2429532 bytes)
+2025-01-13 06:02:05,361 - INFO - Progress: 97/4740 - Success: 96, Failed: 1
+2025-01-13 06:02:05,361 - INFO - Sleeping for 4.69 seconds...
+2025-01-13 06:02:10,052 - INFO - Downloading: 分享图片 (Attempt 1/2)
+2025-01-13 06:02:15,549 - WARNING - Chrome stderr: [61506:61531:0113/060210.126546:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[61506:61535:0113/060210.128801:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[61506:61535:0113/060210.128904:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:02:15,554 - INFO - Successfully downloaded: 分享图片 (size: 2496796 bytes)
+2025-01-13 06:02:15,555 - INFO - Progress: 98/4740 - Success: 97, Failed: 1
+2025-01-13 06:02:15,555 - INFO - Sleeping for 22.69 seconds...
+2025-01-13 06:02:38,242 - INFO - Downloading: 余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 
+
+祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈 (Attempt 1/2)
+2025-01-13 06:02:44,690 - WARNING - Chrome stderr: [62032:62060:0113/060238.354940:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[62032:62060:0113/060238.355124:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[62032:62056:0113/060238.359216:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:02:44,690 - ERROR - Error saving content for 余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 
+
+祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈: [Errno 36] File name too long: '2023/余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 \n\n祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈.html'
+2025-01-13 06:02:44,690 - INFO - Retrying in 5 seconds...
+2025-01-13 06:02:54,691 - INFO - Downloading: 余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 
+
+祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈 (Attempt 2/2)
+2025-01-13 06:03:00,575 - WARNING - Chrome stderr: [62489:62515:0113/060254.774690:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[62489:62518:0113/060254.776505:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[62489:62518:0113/060254.776614:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:03:00,576 - ERROR - Error saving content for 余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 
+
+祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈: [Errno 36] File name too long: '2023/余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 \n\n祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈.html'
+2025-01-13 06:03:00,576 - ERROR - Failed to download 余秀华在上一个新年之际写道：「祝福在时代的雾霾之外，我们对视的眼眸里，依旧有圆月升起。」 
+
+祝所有「不一样」的我们，无论几岁、在哪、和谁，永远有圆月为我们升起、有海浪为我们拍打，永远有瞬间因我们而闪耀，春节快乐。🌈 after 2 attempts
+2025-01-13 06:03:00,576 - INFO - Progress: 99/4740 - Success: 97, Failed: 2
+2025-01-13 06:03:00,577 - INFO - Sleeping for 26.38 seconds...
+2025-01-13 06:03:26,957 - INFO - Downloading: 2022年我成为了能好好照顾植物的人｜征集 (Attempt 1/2)
+2025-01-13 06:03:33,337 - WARNING - Chrome stderr: [63041:63067:0113/060327.049656:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[63041:63070:0113/060327.051501:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[63041:63070:0113/060327.051600:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:03:33,342 - INFO - Successfully downloaded: 2022年我成为了能好好照顾植物的人｜征集 (size: 2416959 bytes)
+2025-01-13 06:03:33,342 - INFO - Progress: 100/4740 - Success: 98, Failed: 2
+2025-01-13 06:03:33,343 - INFO - Sleeping for 19.80 seconds...
+2025-01-13 06:03:53,139 - INFO - Downloading: 北同2022年报：用信念和勇气重燃生活的热情 (Attempt 1/2)
+2025-01-13 06:04:00,235 - WARNING - Chrome stderr: [63574:63611:0113/060353.390214:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[63574:63611:0113/060353.390425:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[63574:63607:0113/060353.394386:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:04:00,247 - INFO - Successfully downloaded: 北同2022年报：用信念和勇气重燃生活的热情 (size: 2494919 bytes)
+2025-01-13 06:04:00,247 - INFO - Progress: 101/4740 - Success: 99, Failed: 2
+2025-01-13 06:04:00,248 - INFO - Sleeping for 12.90 seconds...
+2025-01-13 06:04:13,150 - INFO - Downloading: 直面我们避而不谈的「羞耻感」｜咨询师专栏 (Attempt 1/2)
+2025-01-13 06:04:19,875 - WARNING - Chrome stderr: [64061:64087:0113/060413.227400:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[64061:64090:0113/060413.227920:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[64061:64090:0113/060413.227992:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:04:19,880 - INFO - Successfully downloaded: 直面我们避而不谈的「羞耻感」｜咨询师专栏 (size: 2534790 bytes)
+2025-01-13 06:04:19,880 - INFO - Progress: 102/4740 - Success: 100, Failed: 2
+2025-01-13 06:04:19,881 - INFO - Sleeping for 16.56 seconds...
+2025-01-13 06:04:36,443 - INFO - Downloading: 多元致胜，共融启航：北同职场部2022年工作总结 (Attempt 1/2)
+2025-01-13 06:04:42,682 - WARNING - Chrome stderr: [64575:64601:0113/060436.517038:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[64575:64604:0113/060436.518627:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[64575:64604:0113/060436.519221:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:04:42,687 - INFO - Successfully downloaded: 多元致胜，共融启航：北同职场部2022年工作总结 (size: 2457130 bytes)
+2025-01-13 06:04:42,687 - INFO - Progress: 103/4740 - Success: 101, Failed: 2
+2025-01-13 06:04:42,688 - INFO - Sleeping for 9.62 seconds...
+2025-01-13 06:04:52,312 - INFO - Downloading: 从这里开始成为性别友善心理咨询师！小悟生金牌课程第八期即将开课 (Attempt 1/2)
+2025-01-13 06:04:58,564 - WARNING - Chrome stderr: [65049:65075:0113/060452.386178:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65049:65079:0113/060452.389822:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65049:65079:0113/060452.389899:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:04:58,572 - INFO - Successfully downloaded: 从这里开始成为性别友善心理咨询师！小悟生金牌课程第八期即将开课 (size: 2554611 bytes)
+2025-01-13 06:04:58,572 - INFO - Progress: 104/4740 - Success: 102, Failed: 2
+2025-01-13 06:04:58,572 - INFO - Sleeping for 3.01 seconds...
+2025-01-13 06:05:01,580 - INFO - Downloading: 个人年度les影视盘点：终于不用在边角料中找百合了 (Attempt 1/2)
+2025-01-13 06:05:08,021 - WARNING - Chrome stderr: [65455:65481:0113/060501.657353:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65455:65484:0113/060501.659316:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65455:65484:0113/060501.659451:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:05:08,026 - INFO - Successfully downloaded: 个人年度les影视盘点：终于不用在边角料中找百合了 (size: 2513524 bytes)
+2025-01-13 06:05:08,026 - INFO - Progress: 105/4740 - Success: 103, Failed: 2
+2025-01-13 06:05:08,027 - INFO - Sleeping for 16.23 seconds...
+2025-01-13 06:05:24,262 - INFO - Downloading: 一定要相信自己的不可替代性｜月捐人故事电台vol.3 (Attempt 1/2)
+2025-01-13 06:05:30,647 - WARNING - Chrome stderr: [65929:65955:0113/060524.335577:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65929:65958:0113/060524.337814:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[65929:65958:0113/060524.337918:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:05:30,652 - INFO - Successfully downloaded: 一定要相信自己的不可替代性｜月捐人故事电台vol.3 (size: 2453877 bytes)
+2025-01-13 06:05:30,653 - INFO - Progress: 106/4740 - Success: 104, Failed: 2
+2025-01-13 06:05:30,653 - INFO - Sleeping for 16.87 seconds...
+2025-01-13 06:05:47,527 - INFO - Downloading: 仅剩2个名额！LL团体咨询第十期开放招募 (Attempt 1/2)
+2025-01-13 06:05:54,360 - WARNING - Chrome stderr: [66444:66472:0113/060547.618164:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[66444:66472:0113/060547.618277:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[66444:66468:0113/060547.631918:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:05:54,366 - INFO - Successfully downloaded: 仅剩2个名额！LL团体咨询第十期开放招募 (size: 2514588 bytes)
+2025-01-13 06:05:54,366 - INFO - Progress: 107/4740 - Success: 105, Failed: 2
+2025-01-13 06:05:54,366 - INFO - Sleeping for 12.10 seconds...
+2025-01-13 06:06:06,469 - INFO - Downloading: 国际著名性心理专家亲授GSRD疗法！本周日重磅直播！ (Attempt 1/2)
+2025-01-13 06:06:12,572 - WARNING - Chrome stderr: [66917:66943:0113/060606.543243:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[66917:66946:0113/060606.546194:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[66917:66946:0113/060606.546255:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:06:12,577 - INFO - Successfully downloaded: 国际著名性心理专家亲授GSRD疗法！本周日重磅直播！ (size: 2547126 bytes)
+2025-01-13 06:06:12,577 - INFO - Progress: 108/4740 - Success: 106, Failed: 2
+2025-01-13 06:06:12,578 - INFO - Sleeping for 2.74 seconds...
+2025-01-13 06:06:15,321 - INFO - Downloading: 你眼中「健康可持续」的亲密关系，是怎样的？ | 征集 (Attempt 1/2)
+2025-01-13 06:06:21,172 - WARNING - Chrome stderr: [67299:67323:0113/060615.397575:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[67299:67328:0113/060615.399635:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[67299:67328:0113/060615.399729:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:06:21,177 - INFO - Successfully downloaded: 你眼中「健康可持续」的亲密关系，是怎样的？ | 征集 (size: 2370120 bytes)
+2025-01-13 06:06:21,178 - INFO - Progress: 109/4740 - Success: 107, Failed: 2
+2025-01-13 06:06:21,178 - INFO - Sleeping for 21.12 seconds...
+2025-01-13 06:06:42,297 - INFO - Downloading: 「一起酷儿一整年！」北同酷儿月历预售 (Attempt 1/2)
+2025-01-13 06:06:48,612 - WARNING - Chrome stderr: [67812:67838:0113/060642.371719:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[67812:67841:0113/060642.373832:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[67812:67841:0113/060642.373943:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:06:48,616 - INFO - Successfully downloaded: 「一起酷儿一整年！」北同酷儿月历预售 (size: 2366004 bytes)
+2025-01-13 06:06:48,616 - INFO - Progress: 110/4740 - Success: 108, Failed: 2
+2025-01-13 06:06:48,617 - INFO - Sleeping for 28.99 seconds...
+2025-01-13 06:07:17,607 - INFO - Downloading: 直播预告：你的生命值得被重新述说 (Attempt 1/2)
+2025-01-13 06:07:23,745 - WARNING - Chrome stderr: [68407:68437:0113/060717.730413:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[68407:68437:0113/060717.730635:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[68407:68437:0113/060717.730692:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples...
+2025-01-13 06:07:23,750 - INFO - Successfully downloaded: 直播预告：你的生命值得被重新述说 (size: 2546732 bytes)
+2025-01-13 06:07:23,750 - INFO - Progress: 112/4740 - Success: 109, Failed: 2
+2025-01-13 06:07:23,750 - INFO - Sleeping for 6.01 seconds...
+2025-01-13 06:07:29,758 - INFO - Downloading: 周二直播倒计时！春节特别策划：一起聊聊和家人相处的烦恼吧❤️ (Attempt 1/2)
+2025-01-13 06:07:35,388 - WARNING - Chrome stderr: [68832:68861:0113/060729.836530:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[68832:68864:0113/060729.837741:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[68832:68864:0113/060729.837871:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:07:35,393 - INFO - Successfully downloaded: 周二直播倒计时！春节特别策划：一起聊聊和家人相处的烦恼吧❤️ (size: 2499798 bytes)
+2025-01-13 06:07:35,393 - INFO - Progress: 111/4740 - Success: 110, Failed: 2
+2025-01-13 06:07:35,394 - INFO - Sleeping for 16.43 seconds...
+2025-01-13 06:07:51,824 - INFO - Downloading: 线上OH卡体验活动报名：遇见你的三重门 (Attempt 1/2)
+2025-01-13 06:07:58,335 - WARNING - Chrome stderr: [69291:69326:0113/060751.929308:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[69291:69326:0113/060751.929500:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[69291:69322:0113/060751.930578:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:07:58,340 - INFO - Successfully downloaded: 线上OH卡体验活动报名：遇见你的三重门 (size: 2443867 bytes)
+2025-01-13 06:07:58,340 - INFO - Progress: 113/4740 - Success: 111, Failed: 2
+2025-01-13 06:07:58,341 - INFO - Sleeping for 15.91 seconds...
+2025-01-13 06:08:14,248 - INFO - Downloading: 你的理想型是什么样的？丨线上互助小组报名（情感场） (Attempt 1/2)
+2025-01-13 06:08:20,266 - WARNING - Chrome stderr: [69793:69819:0113/060814.320957:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[69793:69822:0113/060814.323196:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[69793:69822:0113/060814.323298:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:08:20,271 - INFO - Successfully downloaded: 你的理想型是什么样的？丨线上互助小组报名（情感场） (size: 2442458 bytes)
+2025-01-13 06:08:20,271 - INFO - Progress: 114/4740 - Success: 112, Failed: 2
+2025-01-13 06:08:20,272 - INFO - Sleeping for 5.80 seconds...
+2025-01-13 06:08:26,068 - INFO - Downloading: 疫情对性多元群体造成了什么影响？一份全球系统综述 (Attempt 1/2)
+2025-01-13 06:08:32,097 - WARNING - Chrome stderr: [70185:70211:0113/060826.141755:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[70185:70214:0113/060826.143119:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[70185:70214:0113/060826.143218:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:08:32,102 - INFO - Successfully downloaded: 疫情对性多元群体造成了什么影响？一份全球系统综述 (size: 2444277 bytes)
+2025-01-13 06:08:32,102 - INFO - Progress: 115/4740 - Success: 113, Failed: 2
+2025-01-13 06:08:32,103 - INFO - Sleeping for 23.27 seconds...
+2025-01-13 06:08:55,376 - INFO - Downloading: 为啥与家人相处情绪稳定这么难？回家过年前和专业心理咨询师聊聊！ (Attempt 1/2)
+2025-01-13 06:09:01,374 - WARNING - Chrome stderr: [70728:70752:0113/060855.453845:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[70728:70758:0113/060855.456074:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[70728:70758:0113/060855.456193:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:09:01,379 - INFO - Successfully downloaded: 为啥与家人相处情绪稳定这么难？回家过年前和专业心理咨询师聊聊！ (size: 2547499 bytes)
+2025-01-13 06:09:01,380 - INFO - Progress: 116/4740 - Success: 114, Failed: 2
+2025-01-13 06:09:01,380 - INFO - Skipping 仅剩2个名额！LL团体咨询第十期开放招募 - already downloaded
+2025-01-13 06:09:01,380 - INFO - Progress: 117/4740 - Success: 115, Failed: 2
+2025-01-13 06:09:01,381 - INFO - Sleeping for 29.74 seconds...
+2025-01-13 06:09:31,119 - INFO - Downloading: 在跨性别青少年门诊，目睹中国家庭的撕裂 (Attempt 1/2)
+2025-01-13 06:10:31,190 - ERROR - Timeout while downloading 在跨性别青少年门诊，目睹中国家庭的撕裂 on attempt 1
+2025-01-13 06:10:36,190 - INFO - Downloading: 在跨性别青少年门诊，目睹中国家庭的撕裂 (Attempt 2/2)
+2025-01-13 06:10:42,569 - WARNING - Chrome stderr: [72097:72123:0113/061036.270102:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[72097:72126:0113/061036.271960:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[72097:72126:0113/061036.272057:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:10:42,573 - INFO - Successfully downloaded: 在跨性别青少年门诊，目睹中国家庭的撕裂 (size: 2459988 bytes)
+2025-01-13 06:10:42,573 - INFO - Progress: 118/4740 - Success: 116, Failed: 2
+2025-01-13 06:10:42,574 - INFO - Skipping 为啥与家人相处情绪稳定这么难？回家过年前和专业心理咨询师聊聊！ - already downloaded
+2025-01-13 06:10:42,574 - INFO - Progress: 120/4740 - Success: 117, Failed: 2
+2025-01-13 06:10:42,574 - INFO - Sleeping for 20.28 seconds...
+2025-01-13 06:11:02,859 - INFO - Downloading: 脱单？交友？闲聊？你想要的这里都有！ (Attempt 1/2)
+2025-01-13 06:11:08,631 - WARNING - Chrome stderr: [72617:72641:0113/061102.936216:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[72617:72647:0113/061102.938372:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[72617:72647:0113/061102.938484:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:11:08,635 - INFO - Successfully downloaded: 脱单？交友？闲聊？你想要的这里都有！ (size: 2431889 bytes)
+2025-01-13 06:11:08,635 - INFO - Progress: 119/4740 - Success: 118, Failed: 2
+2025-01-13 06:11:08,636 - INFO - Sleeping for 9.43 seconds...
+2025-01-13 06:11:18,066 - INFO - Downloading: 叮咚！北同1月活动月历来啦，请查收❤️ (Attempt 1/2)
+2025-01-13 06:11:23,273 - WARNING - Chrome stderr: [73056:73090:0113/061118.186308:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73056:73090:0113/061118.186424:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73056:73086:0113/061118.189017:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:11:23,278 - INFO - Successfully downloaded: 叮咚！北同1月活动月历来啦，请查收❤️ (size: 2546870 bytes)
+2025-01-13 06:11:23,278 - INFO - Progress: 121/4740 - Success: 119, Failed: 2
+2025-01-13 06:11:23,278 - INFO - Sleeping for 9.59 seconds...
+2025-01-13 06:11:32,867 - INFO - Downloading: 性多元的你怎么度过春节？丨性多元群体春节互助小组（情感场） (Attempt 1/2)
+2025-01-13 06:11:38,842 - WARNING - Chrome stderr: [73495:73528:0113/061132.989815:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73495:73528:0113/061132.990030:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73495:73524:0113/061132.990363:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:11:38,847 - INFO - Successfully downloaded: 性多元的你怎么度过春节？丨性多元群体春节互助小组（情感场） (size: 2468508 bytes)
+2025-01-13 06:11:38,847 - INFO - Progress: 122/4740 - Success: 120, Failed: 2
+2025-01-13 06:11:38,848 - INFO - Sleeping for 17.55 seconds...
+2025-01-13 06:11:56,402 - INFO - Downloading: 疫情期间的自我关照指南（性多元友好版） (Attempt 1/2)
+2025-01-13 06:12:02,472 - WARNING - Chrome stderr: [73998:74023:0113/061156.480351:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73998:74028:0113/061156.482776:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[73998:74028:0113/061156.482873:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:12:02,476 - INFO - Successfully downloaded: 疫情期间的自我关照指南（性多元友好版） (size: 2474206 bytes)
+2025-01-13 06:12:02,477 - INFO - Progress: 123/4740 - Success: 121, Failed: 2
+2025-01-13 06:12:02,477 - INFO - Sleeping for 29.99 seconds...
+2025-01-13 06:12:32,472 - INFO - Downloading: 心怀感恩，各项目持续稳步推进｜北同11月Newsletter (Attempt 1/2)
+2025-01-13 06:12:38,369 - WARNING - Chrome stderr: [74560:74586:0113/061232.546828:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[74560:74589:0113/061232.548893:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[74560:74589:0113/061232.549088:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:12:38,374 - INFO - Successfully downloaded: 心怀感恩，各项目持续稳步推进｜北同11月Newsletter (size: 2469575 bytes)
+2025-01-13 06:12:38,374 - INFO - Progress: 124/4740 - Success: 122, Failed: 2
+2025-01-13 06:12:38,375 - INFO - Sleeping for 23.39 seconds...
+2025-01-13 06:13:01,769 - INFO - Downloading: 2022年最后一天，与你分享我们的「玫瑰、荆棘和种子」 (Attempt 1/2)
+2025-01-13 06:13:07,854 - WARNING - Chrome stderr: [75099:75125:0113/061301.845653:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75099:75128:0113/061301.847362:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75099:75128:0113/061301.847606:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:13:07,864 - INFO - Successfully downloaded: 2022年最后一天，与你分享我们的「玫瑰、荆棘和种子」 (size: 2482322 bytes)
+2025-01-13 06:13:07,864 - INFO - Progress: 125/4740 - Success: 123, Failed: 2
+2025-01-13 06:13:07,865 - INFO - Sleeping for 10.43 seconds...
+2025-01-13 06:13:18,299 - INFO - Downloading: 和导演一起看电影！《早晚一炉香》带你走进HIV感染者真实生活 (Attempt 1/2)
+2025-01-13 06:13:24,545 - WARNING - Chrome stderr: [75561:75587:0113/061318.373737:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75561:75591:0113/061318.375242:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75561:75591:0113/061318.375336:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:13:24,550 - INFO - Successfully downloaded: 和导演一起看电影！《早晚一炉香》带你走进HIV感染者真实生活 (size: 2417200 bytes)
+2025-01-13 06:13:24,550 - INFO - Progress: 126/4740 - Success: 124, Failed: 2
+2025-01-13 06:13:24,550 - INFO - Sleeping for 5.54 seconds...
+2025-01-13 06:13:30,090 - INFO - Downloading: 2022年我成为了能好好照顾植物的人｜征集 (Attempt 1/2)
+2025-01-13 06:13:35,744 - WARNING - Chrome stderr: [75974:76000:0113/061330.165212:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75974:76003:0113/061330.166963:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[75974:76003:0113/061330.167066:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:13:35,756 - INFO - Successfully downloaded: 2022年我成为了能好好照顾植物的人｜征集 (size: 2369140 bytes)
+2025-01-13 06:13:35,756 - INFO - Progress: 127/4740 - Success: 125, Failed: 2
+2025-01-13 06:13:35,757 - INFO - Sleeping for 26.45 seconds...
+2025-01-13 06:14:02,206 - INFO - Downloading: 17岁的跨性别女孩小淘，和她的普通生活 (Attempt 1/2)
+2025-01-13 06:14:08,049 - WARNING - Chrome stderr: [76528:76558:0113/061402.320453:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[76528:76562:0113/061402.320269:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[76528:76558:0113/061402.321427:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "...
+2025-01-13 06:14:08,053 - INFO - Successfully downloaded: 17岁的跨性别女孩小淘，和她的普通生活 (size: 2392168 bytes)
+2025-01-13 06:14:08,053 - INFO - Progress: 128/4740 - Success: 126, Failed: 2
+2025-01-13 06:14:08,054 - INFO - Sleeping for 14.80 seconds...
+2025-01-13 06:14:22,858 - INFO - Downloading: 圣诞快乐！新年快乐！新的一年愿我们的伙伴骄傲如初！ (Attempt 1/2)
+2025-01-13 06:14:27,871 - WARNING - Chrome stderr: [77010:77036:0113/061422.932683:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77010:77039:0113/061422.934926:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77010:77039:0113/061422.935047:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:14:27,876 - INFO - Successfully downloaded: 圣诞快乐！新年快乐！新的一年愿我们的伙伴骄傲如初！ (size: 2499519 bytes)
+2025-01-13 06:14:27,876 - INFO - Progress: 130/4740 - Success: 127, Failed: 2
+2025-01-13 06:14:27,877 - INFO - Sleeping for 10.68 seconds...
+2025-01-13 06:14:38,552 - INFO - Downloading: 重夺生活的可控感｜2023自由共舞·招募中（内含20个免费体验名额！） (Attempt 1/2)
+2025-01-13 06:14:45,428 - WARNING - Chrome stderr: [77468:77492:0113/061438.639707:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77468:77496:0113/061438.641038:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77468:77496:0113/061438.641098:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:14:45,432 - INFO - Successfully downloaded: 重夺生活的可控感｜2023自由共舞·招募中（内含20个免费体验名额！） (size: 2464979 bytes)
+2025-01-13 06:14:45,433 - INFO - Progress: 129/4740 - Success: 128, Failed: 2
+2025-01-13 06:14:45,433 - INFO - Sleeping for 1.71 seconds...
+2025-01-13 06:14:47,140 - INFO - Downloading: 「过山车般的经历」： 男同志伴侣寻求咨询的心路历程｜彩虹心理学 (Attempt 1/2)
+2025-01-13 06:14:53,400 - WARNING - Chrome stderr: [77894:77920:0113/061447.224311:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77894:77923:0113/061447.226451:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[77894:77923:0113/061447.226555:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:14:53,409 - INFO - Successfully downloaded: 「过山车般的经历」： 男同志伴侣寻求咨询的心路历程｜彩虹心理学 (size: 2466622 bytes)
+2025-01-13 06:14:53,409 - INFO - Progress: 132/4740 - Success: 129, Failed: 2
+2025-01-13 06:14:53,410 - INFO - Sleeping for 12.95 seconds...
+2025-01-13 06:15:06,359 - INFO - Downloading: 新的一年，你想跨过什么？丨线上互助小组报名（成长场） (Attempt 1/2)
+2025-01-13 06:15:12,660 - WARNING - Chrome stderr: [78340:78369:0113/061506.440396:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[78340:78372:0113/061506.442020:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[78340:78372:0113/061506.442136:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:15:12,665 - INFO - Successfully downloaded: 新的一年，你想跨过什么？丨线上互助小组报名（成长场） (size: 2490186 bytes)
+2025-01-13 06:15:12,665 - INFO - Progress: 131/4740 - Success: 130, Failed: 2
+2025-01-13 06:15:12,666 - INFO - Sleeping for 15.09 seconds...
+2025-01-13 06:15:27,756 - INFO - Downloading: APA指南 | 看到性多元者的积极一面，认识到TA们的心理复原力与抵抗力 (Attempt 1/2)
+2025-01-13 06:15:33,472 - WARNING - Chrome stderr: [78823:78862:0113/061527.872645:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[78823:78862:0113/061527.884432:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[78823:78862:0113/061527.884527:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples...
+2025-01-13 06:15:33,477 - INFO - Successfully downloaded: APA指南 | 看到性多元者的积极一面，认识到TA们的心理复原力与抵抗力 (size: 2427502 bytes)
+2025-01-13 06:15:33,477 - INFO - Progress: 133/4740 - Success: 131, Failed: 2
+2025-01-13 06:15:33,478 - INFO - Sleeping for 3.19 seconds...
+2025-01-13 06:15:36,664 - INFO - Downloading: 脆弱加剧：新冠疫情如何影响性多元社群？ (Attempt 1/2)
+2025-01-13 06:15:43,156 - WARNING - Chrome stderr: [79219:79243:0113/061536.738260:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[79219:79249:0113/061536.740023:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[79219:79249:0113/061536.740143:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:15:43,161 - INFO - Successfully downloaded: 脆弱加剧：新冠疫情如何影响性多元社群？ (size: 2447972 bytes)
+2025-01-13 06:15:43,161 - INFO - Progress: 134/4740 - Success: 132, Failed: 2
+2025-01-13 06:15:43,162 - INFO - Sleeping for 1.33 seconds...
+2025-01-13 06:15:44,496 - INFO - Downloading: 「陪伴亦力量」2023 · 第一届跨性别家长营 (Attempt 1/2)
+2025-01-13 06:15:50,172 - WARNING - Chrome stderr: [79610:79636:0113/061544.570520:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[79610:79639:0113/061544.572063:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[79610:79639:0113/061544.572157:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:15:50,178 - INFO - Successfully downloaded: 「陪伴亦力量」2023 · 第一届跨性别家长营 (size: 2377746 bytes)
+2025-01-13 06:15:50,178 - INFO - Progress: 135/4740 - Success: 133, Failed: 2
+2025-01-13 06:15:50,178 - INFO - Sleeping for 28.79 seconds...
+2025-01-13 06:16:18,973 - INFO - Downloading: 「我也不知道未来和她会怎么样。」｜月捐人故事电台 Vol. 2 (Attempt 1/2)
+2025-01-13 06:16:25,385 - WARNING - Chrome stderr: [80159:80184:0113/061619.050435:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[80159:80188:0113/061619.052132:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[80159:80188:0113/061619.052232:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:16:25,390 - INFO - Successfully downloaded: 「我也不知道未来和她会怎么样。」｜月捐人故事电台 Vol. 2 (size: 2458924 bytes)
+2025-01-13 06:16:25,390 - INFO - Progress: 136/4740 - Success: 134, Failed: 2
+2025-01-13 06:16:25,390 - INFO - Sleeping for 12.59 seconds...
+2025-01-13 06:16:37,981 - INFO - Downloading: 直播预告：如何建设对性多元包容的家庭？ (Attempt 1/2)
+2025-01-13 06:16:44,236 - WARNING - Chrome stderr: [80645:80669:0113/061638.057019:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[80645:80675:0113/061638.059156:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[80645:80675:0113/061638.059257:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:16:44,241 - INFO - Successfully downloaded: 直播预告：如何建设对性多元包容的家庭？ (size: 2546676 bytes)
+2025-01-13 06:16:44,241 - INFO - Progress: 137/4740 - Success: 135, Failed: 2
+2025-01-13 06:16:44,242 - INFO - Sleeping for 14.46 seconds...
+2025-01-13 06:16:58,704 - INFO - Downloading: 北同 x COMMUNE：冬日周末线下活动来啦！ (Attempt 1/2)
+2025-01-13 06:17:04,507 - WARNING - Chrome stderr: [81146:81170:0113/061658.808906:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[81146:81176:0113/061658.811556:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[81146:81176:0113/061658.812251:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:17:04,512 - INFO - Successfully downloaded: 北同 x COMMUNE：冬日周末线下活动来啦！ (size: 2499192 bytes)
+2025-01-13 06:17:04,512 - INFO - Progress: 138/4740 - Success: 136, Failed: 2
+2025-01-13 06:17:04,512 - INFO - Sleeping for 29.06 seconds...
+2025-01-13 06:17:33,575 - INFO - Downloading: 冬日故事会：欢迎来到月捐人故事小电台 (Attempt 1/2)
+2025-01-13 06:17:39,856 - WARNING - Chrome stderr: [81731:81755:0113/061733.649139:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[81731:81761:0113/061733.650852:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[81731:81761:0113/061733.651449:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:17:39,864 - INFO - Successfully downloaded: 冬日故事会：欢迎来到月捐人故事小电台 (size: 2462459 bytes)
+2025-01-13 06:17:39,865 - INFO - Progress: 140/4740 - Success: 137, Failed: 2
+2025-01-13 06:17:39,865 - INFO - Sleeping for 12.42 seconds...
+2025-01-13 06:17:52,291 - INFO - Downloading: 「妈的多重宇宙」& 平安夜聊聊真爱丨线上互助小组报名 (Attempt 1/2)
+2025-01-13 06:17:59,034 - WARNING - Chrome stderr: [82202:82228:0113/061752.365320:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[82202:82231:0113/061752.367384:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[82202:82231:0113/061752.367482:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:17:59,039 - INFO - Successfully downloaded: 「妈的多重宇宙」& 平安夜聊聊真爱丨线上互助小组报名 (size: 2488889 bytes)
+2025-01-13 06:17:59,039 - INFO - Progress: 139/4740 - Success: 138, Failed: 2
+2025-01-13 06:17:59,040 - INFO - Sleeping for 27.09 seconds...
+2025-01-13 06:18:26,135 - INFO - Downloading: APA指南 | 性少数倾向不是心理疾病，试图改变性倾向会造成伤害 (Attempt 1/2)
+2025-01-13 06:18:34,191 - WARNING - Chrome stderr: [82765:82791:0113/061826.209035:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[82765:82794:0113/061826.210463:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[82765:82794:0113/061826.210569:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:18:34,201 - INFO - Successfully downloaded: APA指南 | 性少数倾向不是心理疾病，试图改变性倾向会造成伤害 (size: 2509088 bytes)
+2025-01-13 06:18:34,202 - INFO - Progress: 141/4740 - Success: 139, Failed: 2
+2025-01-13 06:18:34,203 - INFO - Sleeping for 19.10 seconds...
+2025-01-13 06:18:53,302 - INFO - Downloading: 你眼中「健康可持续」的亲密关系，是怎样的？ | 征集 (Attempt 1/2)
+2025-01-13 06:18:59,077 - WARNING - Chrome stderr: [83319:83343:0113/061853.378185:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[83319:83349:0113/061853.380939:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[83319:83349:0113/061853.381059:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:18:59,082 - INFO - Successfully downloaded: 你眼中「健康可持续」的亲密关系，是怎样的？ | 征集 (size: 2370056 bytes)
+2025-01-13 06:18:59,082 - INFO - Progress: 142/4740 - Success: 140, Failed: 2
+2025-01-13 06:18:59,083 - INFO - Sleeping for 16.03 seconds...
+2025-01-13 06:19:15,109 - INFO - Downloading: 更安全，更快乐：7个给性多元群体的安全性行为建议｜彩虹心理学 (Attempt 1/2)
+2025-01-13 06:19:21,825 - WARNING - Chrome stderr: [83807:83833:0113/061915.184240:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[83807:83836:0113/061915.186197:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[83807:83836:0113/061915.186273:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:19:21,829 - INFO - Successfully downloaded: 更安全，更快乐：7个给性多元群体的安全性行为建议｜彩虹心理学 (size: 2477335 bytes)
+2025-01-13 06:19:21,829 - INFO - Progress: 143/4740 - Success: 141, Failed: 2
+2025-01-13 06:19:21,830 - INFO - Sleeping for 16.27 seconds...
+2025-01-13 06:19:38,105 - INFO - Downloading: 和他相遇之时，世界轻轻飘过 (Attempt 1/2)
+2025-01-13 06:19:44,736 - WARNING - Chrome stderr: [84305:84331:0113/061938.178334:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[84305:84334:0113/061938.180317:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[84305:84334:0113/061938.180414:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:19:44,741 - INFO - Successfully downloaded: 和他相遇之时，世界轻轻飘过 (size: 2405991 bytes)
+2025-01-13 06:19:44,741 - INFO - Progress: 144/4740 - Success: 142, Failed: 2
+2025-01-13 06:19:44,742 - INFO - Sleeping for 3.46 seconds...
+2025-01-13 06:19:48,204 - INFO - Downloading: 出柜是一种纯粹的个人选择吗？ (Attempt 1/2)
+2025-01-13 06:19:54,218 - WARNING - Chrome stderr: [84706:84730:0113/061948.305993:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[84706:84734:0113/061948.305863:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[84706:84734:0113/061948.306292:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:19:54,227 - INFO - Successfully downloaded: 出柜是一种纯粹的个人选择吗？ (size: 2382718 bytes)
+2025-01-13 06:19:54,227 - INFO - Progress: 145/4740 - Success: 143, Failed: 2
+2025-01-13 06:19:54,228 - INFO - Sleeping for 7.58 seconds...
+2025-01-13 06:20:01,805 - INFO - Downloading: 我这里下雪了，你那里呢？&「妈的多重宇宙」| 线上互助小组报名（情感场） (Attempt 1/2)
+2025-01-13 06:20:08,221 - WARNING - Chrome stderr: [85121:85147:0113/062001.881579:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[85121:85150:0113/062001.884132:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[85121:85150:0113/062001.884234:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:20:08,226 - INFO - Successfully downloaded: 我这里下雪了，你那里呢？&「妈的多重宇宙」| 线上互助小组报名（情感场） (size: 2439924 bytes)
+2025-01-13 06:20:08,226 - INFO - Progress: 146/4740 - Success: 144, Failed: 2
+2025-01-13 06:20:08,227 - INFO - Sleeping for 14.14 seconds...
+2025-01-13 06:20:22,371 - INFO - Downloading: 女人、女同、伴侣暴力受害者：被三重边缘化的她们｜彩虹心理学 (Attempt 1/2)
+2025-01-13 06:20:29,528 - WARNING - Chrome stderr: [85652:85678:0113/062022.445522:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[85652:85681:0113/062022.447303:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[85652:85681:0113/062022.447399:ERROR:bus.cc(407)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or direct...
+2025-01-13 06:20:29,540 - INFO - Successfully downloaded: 女人、女同、伴侣暴力受害者：被三重边缘化的她们｜彩虹心理学 (size: 2454110 bytes)
+2025-01-13 06:20:29,541 - INFO - Progress: 147/4740 - Success: 145, Failed: 2
+2025-01-13 06:20:29,542 - INFO - Skipping 你眼中「健康可持续」的亲密关系，是怎样的？ | 征集 - already downloaded
+2025-01-13 06:20:29,542 - INFO - Progress: 149/4740 - Success: 146, Failed: 2
+2025-01-13 06:20:29,542 - INFO - Sleeping for 26.80 seconds...
