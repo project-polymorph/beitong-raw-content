@@ -8,6 +8,7 @@ import re
 import logging
 from pathlib import Path
 import random
+import argparse
 
 # Set up logging
 logging.basicConfig(
@@ -129,13 +130,25 @@ def download_article(url, title, date_str, max_retries=2, retry_delay=5):
     return False
 
 def main():
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Download WeChat articles from CSV file')
+    parser.add_argument('csv_file', help='Path to the input CSV file')
+    parser.add_argument('--order', choices=['regular', 'reverse', 'random'], 
+                      default='regular', help='Sorting order for processing articles')
+    args = parser.parse_args()
+
     try:
         # Read CSV file
-        df = pd.read_csv('北同文化AllForQueer.csv')
+        df = pd.read_csv(args.csv_file)
         
-        # Sort by date in ascending order (oldest first)
+        # Sort based on the specified order
         df['发布日期'] = pd.to_datetime(df['发布日期'])
-        df = df.sort_values('发布日期', ascending=True)
+        if args.order == 'regular':
+            df = df.sort_values('发布日期', ascending=True)
+        elif args.order == 'reverse':
+            df = df.sort_values('发布日期', ascending=False)
+        elif args.order == 'random':
+            df = df.sample(frac=1).reset_index(drop=True)
         
         # Get already downloaded files
         downloaded = get_downloaded_files()
@@ -161,7 +174,6 @@ def main():
             else:
                 fail_count += 1
                 
-            
             # Log progress
             logging.info(f"Progress: {index + 1}/{total} - Success: {success_count}, Failed: {fail_count}")
             

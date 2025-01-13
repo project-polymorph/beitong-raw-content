@@ -1286,3 +1286,52 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 2025-01-13 05:12:30,172 - INFO - Successfully downloaded: we are all the same inside! (size: 2390044 bytes)
 2025-01-13 05:12:30,173 - INFO - Progress: 4469/4740 - Success: 271, Failed: 1
 2025-01-13 05:12:30,173 - INFO - Sleeping for 27.69 seconds...
+2025-01-13 05:12:57,864 - INFO - Downloading: 《同心圆•心中的歌》手语系列-最终场 (Attempt 1/2)
+2025-01-13 05:13:05,459 - INFO - Successfully downloaded: 《同心圆•心中的歌》手语系列-最终场 (size: 2404055 bytes)
+2025-01-13 05:13:05,460 - INFO - Progress: 4465/4740 - Success: 272, Failed: 1
+2025-01-13 05:13:05,460 - INFO - Skipping 【同语＆北京同志中心活动】大胆的X：通向自我发现和有质量的伴侣关系 - already downloaded
+2025-01-13 05:13:05,460 - INFO - Progress: 4467/4740 - Success: 273, Failed: 1
+2025-01-13 05:13:05,461 - INFO - Sleeping for 21.16 seconds...
+2025-01-13 05:13:26,621 - INFO - Downloading: Thank God It's Thursday! 周四京城交友名趴TGIT! 再次来袭【独立摇滚夜】 (Attempt 1/2)
+2025-01-13 05:13:33,368 - INFO - Successfully downloaded: Thank God It's Thursday! 周四京城交友名趴TGIT! 再次来袭【独立摇滚夜】 (size: 2396355 bytes)
+2025-01-13 05:13:33,368 - INFO - Progress: 4468/4740 - Success: 274, Failed: 1
+2025-01-13 05:13:33,368 - INFO - Sleeping for 23.46 seconds...
+2025-01-13 05:13:56,832 - INFO - Downloading: 论坛剧场之亲密关系暴力：爱我的人伤我最深 (Attempt 1/2)
+2025-01-13 05:14:03,239 - INFO - Successfully downloaded: 论坛剧场之亲密关系暴力：爱我的人伤我最深 (size: 2350756 bytes)
+2025-01-13 05:14:03,239 - INFO - Progress: 4466/4740 - Success: 275, Failed: 1
+2025-01-13 05:14:03,239 - INFO - Sleeping for 22.47 seconds...
+2025-01-13 05:14:25,706 - INFO - Downloading: 7月12日下午2点-5点半【北京同志中心“了解”主题活动】 (Attempt 1/2)
+2025-01-13 05:14:32,950 - INFO - Successfully downloaded: 7月12日下午2点-5点半【北京同志中心“了解”主题活动】 (size: 2406080 bytes)
+2025-01-13 05:14:32,950 - INFO - Progress: 4464/4740 - Success: 276, Failed: 1
+2025-01-13 05:14:32,951 - INFO - Skipping 北京同志中心个体心理援助（需预约） - already downloaded
+2025-01-13 05:14:32,951 - INFO - Progress: 4463/4740 - Success: 277, Failed: 1
+2025-01-13 05:14:32,951 - INFO - Skipping 2014年7月12日第250期『伙影同人』——《美国美人》 - already downloaded
+2025-01-13 05:14:32,951 - INFO - Progress: 4462/4740 - Success: 278, Failed: 1
+2025-01-13 05:14:32,951 - INFO - Sleeping for 22.51 seconds...
+2025-01-13 05:14:55,463 - INFO - Downloading: 2014年7月13日星期天下午2点【同语＆北京同志中心活动】大胆的X：通向自我发现和有质量的伴侣关系 (Attempt 1/2)
+2025-01-13 05:15:08,916 - WARNING - Chrome stderr: [56858:56858:0113/051501.274167:ERROR:gles2_cmd_decoder_passthrough.cc(1053)] [GroupMarkerNotSet(crbug.com/242999)!:A0E01D0044340000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+[56858:56858:0113/051501.283053:ERROR:gles2_cmd_decoder_passthrough.cc(1053)] [GroupMarkerNotSet(crbug.com/242999)!:A0B01D0044340000]Automatic fallback to software WebGL has been deprecated. Please use...
+2025-01-13 05:15:08,918 - INFO - Successfully downloaded: 2014年7月13日星期天下午2点【同语＆北京同志中心活动】大胆的X：通向自我发现和有质量的伴侣关系 (size: 2395577 bytes)
+2025-01-13 05:15:08,918 - INFO - Progress: 4461/4740 - Success: 279, Failed: 1
+2025-01-13 05:15:08,918 - INFO - Sleeping for 21.56 seconds...
+2025-01-13 05:15:30,483 - INFO - Downloading: 7月13日晚上7-9点【论坛剧场】之亲密关系暴力：爱我的人伤我最深 (Attempt 1/2)
+2025-01-13 05:15:38,303 - INFO - Successfully downloaded: 7月13日晚上7-9点【论坛剧场】之亲密关系暴力：爱我的人伤我最深 (size: 2399686 bytes)
+2025-01-13 05:15:38,303 - INFO - Progress: 4460/4740 - Success: 280, Failed: 1
+2025-01-13 05:15:38,304 - INFO - Sleeping for 25.33 seconds...
+2025-01-13 05:16:03,635 - INFO - Downloading: 7月20日（周日）19:00-21:00【关于纹身的那些事儿】 ——纹身师saya1749分享会 (Attempt 1/2)
+2025-01-13 05:16:05,818 - INFO - Successfully downloaded: 7月20日（周日）19:00-21:00【关于纹身的那些事儿】 ——纹身师saya1749分享会 (size: 53014 bytes)
+2025-01-13 05:16:05,818 - INFO - Progress: 4455/4740 - Success: 281, Failed: 1
+2025-01-13 05:16:05,818 - INFO - Sleeping for 12.67 seconds...
+2025-01-13 05:16:18,488 - INFO - Downloading: 2014年7月18日（周五）19:30-21:30【同心圆亲影会】第33期——摩登同志，摩登家庭 (Attempt 1/2)
+2025-01-13 05:16:20,262 - INFO - Successfully downloaded: 2014年7月18日（周五）19:30-21:30【同心圆亲影会】第33期——摩登同志，摩登家庭 (size: 53014 bytes)
+2025-01-13 05:16:20,263 - INFO - Progress: 4456/4740 - Success: 282, Failed: 1
+2025-01-13 05:16:20,264 - INFO - Sleeping for 25.42 seconds...
+2025-01-13 05:16:45,684 - INFO - Downloading: 同志领导力项目招募！ (Attempt 1/2)
+2025-01-13 05:16:48,365 - INFO - Successfully downloaded: 同志领导力项目招募！ (size: 53014 bytes)
+2025-01-13 05:16:48,366 - INFO - Progress: 4459/4740 - Success: 283, Failed: 1
+2025-01-13 05:16:48,367 - INFO - Sleeping for 25.61 seconds...
+2025-01-13 05:17:13,974 - INFO - Downloading: 2014年7月19日（周六）15:00-17:00【心理沙龙】 疗愈时光 你终将盛放 (Attempt 1/2)
+2025-01-13 05:17:16,507 - INFO - Successfully downloaded: 2014年7月19日（周六）15:00-17:00【心理沙龙】 疗愈时光 你终将盛放 (size: 53014 bytes)
+2025-01-13 05:17:16,507 - INFO - Progress: 4458/4740 - Success: 284, Failed: 1
+2025-01-13 05:17:16,507 - INFO - Sleeping for 16.12 seconds...
+2025-01-13 05:17:32,672 - INFO - Downloading: 2014年7月19日(周六) 17:30-21:00『伙影同人』第251期《夜深沉,爱难吟》 (Attempt 1/2)
