@@ -416,4 +416,324 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 2025-01-13 01:00:33,333 - INFO - Successfully downloaded: “喝啤酒看冬奥”— 北京同志中心邀您在大跃啤酒共享奥运之夜 (size: 2391752 bytes)
 2025-01-13 01:00:33,333 - INFO - Progress: 4653/4740 - Success: 88, Failed: 0
 2025-01-13 01:00:33,334 - INFO - Sleeping for 11.26 seconds...
-                                                                                      
+                                                                                      2025-01-13 04:16:29,881 - INFO - Skipping 我是HOMO我要HOME - 北京同志中心重建计划！ - already downloaded
+2025-01-13 04:16:29,881 - INFO - Progress: 4740/4740 - Success: 1, Failed: 0
+2025-01-13 04:16:29,881 - INFO - Skipping 2013年8月3日第208期『伙影同人』——《饮食男女》 - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4739/4740 - Success: 2, Failed: 0
+2025-01-13 04:16:29,882 - INFO - Skipping 8月8日 今我们说故事——双性恋聚会第一期 - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4738/4740 - Success: 3, Failed: 0
+2025-01-13 04:16:29,882 - INFO - Skipping 8月11日 彼岸彩虹——台湾同志运动者大伟的个人分享会 - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4737/4740 - Success: 4, Failed: 0
+2025-01-13 04:16:29,882 - INFO - Skipping 8月17日 拉慢动作——拉拉瑜伽课第一期 - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4736/4740 - Success: 5, Failed: 0
+2025-01-13 04:16:29,882 - INFO - Skipping 8月30日  艾一生，爱一生——阳性感染者流逝分享会 - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4735/4740 - Success: 6, Failed: 0
+2025-01-13 04:16:29,882 - INFO - Skipping 【同心圆读书会】第三期 你想读什么书？ - already downloaded
+2025-01-13 04:16:29,882 - INFO - Progress: 4734/4740 - Success: 7, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 【拉拉课堂】肚皮舞课堂 9月7日（周六） - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4733/4740 - Success: 8, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 9月17日  女权和同志平权：美国的经验和教训 - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4731/4740 - Success: 9, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 中美LGBT社群文化交流周 - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4732/4740 - Success: 10, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 9月16日   从石墙起义到同性婚姻：美国LGBT运动的抗争之路 - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4730/4740 - Success: 11, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 北京同志中心秋季志愿者招募启事 - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4729/4740 - Success: 12, Failed: 0
+2025-01-13 04:16:29,883 - INFO - Skipping 北京同志中心秋季志愿者招募启事 - already downloaded
+2025-01-13 04:16:29,883 - INFO - Progress: 4728/4740 - Success: 13, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 女权和同志平权：美国的经验和教训 - already downloaded
+2025-01-13 04:16:29,884 - INFO - Progress: 4727/4740 - Success: 14, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 【非双勿扰】帝都首次双性恋速配约会 - already downloaded
+2025-01-13 04:16:29,884 - INFO - Progress: 4726/4740 - Success: 15, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 【美国青年运动家分享】聚焦千禧一代：青年人与社会活动 - already downloaded
+2025-01-13 04:16:29,884 - INFO - Progress: 4725/4740 - Success: 16, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 【非双勿扰】帝都首次双性恋速配约会 - already downloaded
+2025-01-13 04:16:29,884 - INFO - Progress: 4724/4740 - Success: 17, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 2013年10月12日第217期『伙影同人』 - already downloaded
+2025-01-13 04:16:29,884 - INFO - Progress: 4723/4740 - Success: 18, Failed: 0
+2025-01-13 04:16:29,884 - INFO - Skipping 【汉语角招募】北京同志中心汉语角志愿者（讲师、助教）招募启事 - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4722/4740 - Success: 19, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping Beijing LGBT Center Chinese Corner in 2013! - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4721/4740 - Success: 20, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping 【英语角】北京同志中心英语角即将开课！ - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4720/4740 - Success: 21, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping 【情趣工作坊】Delight Workshop 萨德-马索克分享会 - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4719/4740 - Success: 22, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping 2013年10月30日【我们都是柜中人——闲话身边的同志法律】 - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4718/4740 - Success: 23, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping 10月31日万圣节变装大趴体 - already downloaded
+2025-01-13 04:16:29,885 - INFO - Progress: 4717/4740 - Success: 24, Failed: 0
+2025-01-13 04:16:29,885 - INFO - Skipping <贵圈好乱>电影选角+假面派对 - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4716/4740 - Success: 25, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心推介】9个Gay教你和土豪做朋友 - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4715/4740 - Success: 26, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心活动】非弯勿扰之拉拉专场 Les Fall in LOVE ! - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4714/4740 - Success: 27, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心活动】不羁感恩夜 - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4713/4740 - Success: 28, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心活动•社群讲座】：为中国LGBT员工创造包容性的工作场所 - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4712/4740 - Success: 29, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心活动】前门M餐厅周日酒会 "Sundays at M" - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4711/4740 - Success: 30, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【不羁之夜】活动预售渠道 Discount！ - already downloaded
+2025-01-13 04:16:29,886 - INFO - Progress: 4710/4740 - Success: 31, Failed: 0
+2025-01-13 04:16:29,886 - INFO - Skipping 【中心招募】北京同志中心 2013冬季实习生 招募公告 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4709/4740 - Success: 32, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心活动 社群讲座】11.29 为中国LGBT员工创造包容性的工作场所 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4708/4740 - Success: 33, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心招募】北京同志中心 2014年度项目主管 招募公告 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4707/4740 - Success: 34, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心活动】前门M餐厅周日酒会 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4706/4740 - Success: 35, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心招募】北京同志中心 2013-2014冬季实习生 招募公告 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4705/4740 - Success: 36, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心活动】男同志交友沙龙@alfa - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4704/4740 - Success: 37, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【周末有约-男同志交友沙龙第一、二期】 - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4703/4740 - Success: 38, Failed: 0
+2025-01-13 04:16:29,887 - INFO - Skipping 【中心活动】12.05 本季最后一期英语角不容错过！ - already downloaded
+2025-01-13 04:16:29,887 - INFO - Progress: 4702/4740 - Success: 39, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【北京同志中心本周活动一览表】 - already downloaded
+2025-01-13 04:16:29,888 - INFO - Progress: 4701/4740 - Success: 40, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【社群活动】“觉色之夜”复古派对 - already downloaded
+2025-01-13 04:16:29,888 - INFO - Progress: 4700/4740 - Success: 41, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【周末有约--男同志交友沙龙第三期@北京同志中心】 - already downloaded
+2025-01-13 04:16:29,888 - INFO - Progress: 4699/4740 - Success: 42, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【活动回顾】北京同志中心第三期友善心理咨询师活动简报 - already downloaded
+2025-01-13 04:16:29,888 - INFO - Progress: 4697/4740 - Success: 43, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【活动回顾】北京同志中心 12.01 世界艾滋病日 筹款酒会@前门M餐厅 - already downloaded
+2025-01-13 04:16:29,888 - INFO - Progress: 4698/4740 - Success: 44, Failed: 0
+2025-01-13 04:16:29,888 - INFO - Skipping 【中心活动】“再见，微光”骆勐同学pot luck欢送会 - already downloaded
+2025-01-13 04:16:29,889 - INFO - Progress: 4694/4740 - Success: 45, Failed: 0
+2025-01-13 04:16:29,889 - INFO - Skipping 【北京同志中心本周12.11-12.17活动一览表】 - already downloaded
+2025-01-13 04:16:29,890 - INFO - Progress: 4696/4740 - Success: 46, Failed: 0
+2025-01-13 04:16:29,890 - INFO - Skipping 【北京同志中心2013-2014年度冬季实习生招募已结束】 - already downloaded
+2025-01-13 04:16:29,890 - INFO - Progress: 4695/4740 - Success: 47, Failed: 0
+2025-01-13 04:16:29,890 - INFO - Skipping 【答谢信】12.01 前门M餐厅周日酒会感谢信 - already downloaded
+2025-01-13 04:16:29,890 - INFO - Progress: 4693/4740 - Success: 48, Failed: 0
+2025-01-13 04:16:29,890 - INFO - Skipping 【答谢信】北京同志中心11.28不羁感恩夜答谢信 - already downloaded
+2025-01-13 04:16:29,890 - INFO - Progress: 4692/4740 - Success: 49, Failed: 0
+2025-01-13 04:16:29,890 - INFO - Skipping 【社群活动】“觉色之夜”复古派对 - already downloaded
+2025-01-13 04:16:29,890 - INFO - Progress: 4691/4740 - Success: 50, Failed: 0
+2025-01-13 04:16:29,890 - INFO - Skipping 【中心活动】童心缘读书会--《流浪者之歌》 - already downloaded
+2025-01-13 04:16:29,891 - INFO - Progress: 4690/4740 - Success: 51, Failed: 0
+2025-01-13 04:16:29,891 - INFO - Skipping 【12.18--12.24 北京同志中心一周活动一览表】 - already downloaded
+2025-01-13 04:16:29,891 - INFO - Progress: 4689/4740 - Success: 52, Failed: 0
+2025-01-13 04:16:29,892 - INFO - Skipping 【中心活动】12.29 开年会啦！ - already downloaded
+2025-01-13 04:16:29,892 - INFO - Progress: 4688/4740 - Success: 53, Failed: 0
+2025-01-13 04:16:29,892 - INFO - Skipping 【中心活动】12.22 周末有约-男同志交友沙龙第四期 - already downloaded
+2025-01-13 04:16:29,892 - INFO - Progress: 4687/4740 - Success: 54, Failed: 0
+2025-01-13 04:16:29,892 - INFO - Skipping 【更新】北京同志中心本周活动一览表 - already downloaded
+2025-01-13 04:16:29,892 - INFO - Progress: 4686/4740 - Success: 55, Failed: 0
+2025-01-13 04:16:29,892 - INFO - Skipping 【心理援助】北京同志中心个体心理咨询（需预约） - already downloaded
+2025-01-13 04:16:29,892 - INFO - Progress: 4685/4740 - Success: 56, Failed: 0
+2025-01-13 04:16:29,893 - INFO - Skipping 2013年12月25日 *圣诞节特映*第91次 【童心缘读书会】——《黑暗 光明 黑暗》 - already downloaded
+2025-01-13 04:16:29,893 - INFO - Progress: 4684/4740 - Success: 57, Failed: 0
+2025-01-13 04:16:29,893 - INFO - Skipping 【北京同志中心一周活动一览表】(12.25--12.31) - already downloaded
+2025-01-13 04:16:29,893 - INFO - Progress: 4683/4740 - Success: 58, Failed: 0
+2025-01-13 04:16:29,898 - INFO - Skipping 12月29号【北京同志中心】年会来袭 - already downloaded
+2025-01-13 04:16:29,898 - INFO - Progress: 4682/4740 - Success: 59, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 【中心活动】周末有约--男同志交友沙龙第六期 - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4681/4740 - Success: 60, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 又是一年欢聚时——祝贺北京同志中心年会圆满结束 - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4680/4740 - Success: 61, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 【心理援助】2013年一月4日5日北京同志中心个体心理咨询（需预约） - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4679/4740 - Success: 62, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 北京同志中心祝朋友们新年快乐 - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4678/4740 - Success: 63, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 【北京同志中心一周活动一览表】(1.1--1.7) - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4677/4740 - Success: 64, Failed: 0
+2025-01-13 04:16:29,899 - INFO - Skipping 同心圆读书会—曹老师工作坊：回家 - already downloaded
+2025-01-13 04:16:29,899 - INFO - Progress: 4676/4740 - Success: 65, Failed: 0
+2025-01-13 04:16:29,900 - INFO - Skipping 【北京同志中心一周活动一览表（更新版）】(1.1--1.7) - already downloaded
+2025-01-13 04:16:29,900 - INFO - Progress: 4675/4740 - Success: 66, Failed: 0
+2025-01-13 04:16:29,900 - INFO - Skipping 【中心活动】周末有约--男同志交友沙龙第七期 - already downloaded
+2025-01-13 04:16:29,900 - INFO - Progress: 4674/4740 - Success: 67, Failed: 0
+2025-01-13 04:16:29,900 - INFO - Skipping 【色·戒】--变装美颜工作坊 - already downloaded
+2025-01-13 04:16:29,900 - INFO - Progress: 4673/4740 - Success: 68, Failed: 0
+2025-01-13 04:16:29,901 - INFO - Skipping 2014年1月8-14日北京同志中心活动一览表 - already downloaded
+2025-01-13 04:16:29,901 - INFO - Progress: 4672/4740 - Success: 69, Failed: 0
+2025-01-13 04:16:29,901 - INFO - Skipping 【北京同志中心】2014年度项目主管招募公告 - already downloaded
+2025-01-13 04:16:29,901 - INFO - Progress: 4671/4740 - Success: 70, Failed: 0
+2025-01-13 04:16:29,901 - INFO - Skipping 【中心活动】周末有约--男同志交友沙龙第八期 - already downloaded
+2025-01-13 04:16:29,901 - INFO - Progress: 4670/4740 - Success: 71, Failed: 0
+2025-01-13 04:16:29,901 - INFO - Skipping 2014年1月18日第231期『伙影同人』——《情书》 - already downloaded
+2025-01-13 04:16:29,901 - INFO - Progress: 4669/4740 - Success: 72, Failed: 0
+2025-01-13 04:16:29,901 - INFO - Skipping 形式婚姻讨论会 - already downloaded
+2025-01-13 04:16:29,901 - INFO - Progress: 4668/4740 - Success: 73, Failed: 0
+2025-01-13 04:16:29,902 - INFO - Skipping 2014年度同志心理健康网络调查 - already downloaded
+2025-01-13 04:16:29,902 - INFO - Progress: 4667/4740 - Success: 74, Failed: 0
+2025-01-13 04:16:29,902 - INFO - Skipping 北京同志中心志愿者管理专员招募启事 - already downloaded
+2025-01-13 04:16:29,902 - INFO - Progress: 4666/4740 - Success: 75, Failed: 0
+2025-01-13 04:16:29,903 - INFO - Skipping 对性倾向扭转治疗说不 - already downloaded
+2025-01-13 04:16:29,903 - INFO - Progress: 4665/4740 - Success: 76, Failed: 0
+2025-01-13 04:16:29,903 - INFO - Skipping 2014年1月22日【童心缘读书会】《父与女》 - already downloaded
+2025-01-13 04:16:29,903 - INFO - Progress: 4664/4740 - Success: 77, Failed: 0
+2025-01-13 04:16:29,903 - INFO - Skipping 1.22-27北京同志中心一周活动一览表 - already downloaded
+2025-01-13 04:16:29,903 - INFO - Progress: 4662/4740 - Success: 78, Failed: 0
+2025-01-13 04:16:29,903 - INFO - Skipping 形婚之“形”——形式婚姻讨论会活动反馈 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4663/4740 - Success: 79, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 4.在你我之间，画一条小河 — 亲子之间有界限——童心缘“回家”活动总结 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4658/4740 - Success: 80, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 1.追求幸福 vs 幸福地追求——童心缘“回家”活动总结 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4661/4740 - Success: 81, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 2.自由的灵魂————童心缘“回家”活动总结 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4660/4740 - Success: 82, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 3.“我很感恩，有这样一个不同的孩子” 四位妈妈的话——童心缘“回家”活动总结 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4659/4740 - Success: 83, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 北京同志中心春节放假通知 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4657/4740 - Success: 84, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 周末有约——男同志交友沙龙第九期 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4656/4740 - Success: 85, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 北京同志中心全体工作人员给您拜年了 - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4655/4740 - Success: 86, Failed: 0
+2025-01-13 04:16:29,904 - INFO - Skipping 彩虹虫第12期：酷儿漫画     Rainbow Worm12 Queer Comix - already downloaded
+2025-01-13 04:16:29,904 - INFO - Progress: 4654/4740 - Success: 87, Failed: 0
+2025-01-13 04:16:29,905 - INFO - Sleeping for 15.96 seconds...
+2025-01-13 04:16:45,867 - INFO - Downloading: “喝啤酒看冬奥”— 北京同志中心邀您在大跃啤酒共享奥运之夜 (Attempt 1/2)
+2025-01-13 04:16:53,819 - INFO - Successfully downloaded: “喝啤酒看冬奥”— 北京同志中心邀您在大跃啤酒共享奥运之夜 (size: 2391712 bytes)
+2025-01-13 04:16:53,820 - INFO - Progress: 4653/4740 - Success: 88, Failed: 0
+2025-01-13 04:16:53,820 - INFO - Sleeping for 16.95 seconds...
+2025-01-13 04:17:10,768 - INFO - Downloading: 情人节前夜浪漫双人晚餐    Valentine’s Charity Date Night (Attempt 1/2)
+2025-01-13 04:17:17,258 - INFO - Successfully downloaded: 情人节前夜浪漫双人晚餐    Valentine’s Charity Date Night (size: 2402022 bytes)
+2025-01-13 04:17:17,259 - INFO - Progress: 4652/4740 - Success: 89, Failed: 0
+2025-01-13 04:17:17,259 - INFO - Sleeping for 4.00 seconds...
+2025-01-13 04:17:21,258 - INFO - Downloading: 彩虹虫第12期：同志漫画 Rainbow-worm12:Queer Comix (Attempt 1/2)
+2025-01-13 04:17:28,640 - INFO - Successfully downloaded: 彩虹虫第12期：同志漫画 Rainbow-worm12:Queer Comix (size: 2402738 bytes)
+2025-01-13 04:17:28,640 - INFO - Progress: 4651/4740 - Success: 90, Failed: 0
+2025-01-13 04:17:28,641 - INFO - Skipping 北京同志中心志愿者管理专员招募启事 - already downloaded
+2025-01-13 04:17:28,641 - INFO - Progress: 4649/4740 - Success: 91, Failed: 0
+2025-01-13 04:17:28,641 - INFO - Sleeping for 14.37 seconds...
+2025-01-13 04:17:43,009 - INFO - Downloading: 周末有约——男同志交友沙龙第十期 (Attempt 1/2)
+2025-01-13 04:17:49,070 - INFO - Successfully downloaded: 周末有约——男同志交友沙龙第十期 (size: 2393945 bytes)
+2025-01-13 04:17:49,071 - INFO - Progress: 4648/4740 - Success: 92, Failed: 0
+2025-01-13 04:17:49,071 - INFO - Sleeping for 22.15 seconds...
+2025-01-13 04:18:11,223 - INFO - Downloading: 同心圆读书会—第4期：拥抱你的内在小孩—以爱疗愈内在的恐惧  活动招募 (Attempt 1/2)
+2025-01-13 04:18:18,259 - INFO - Successfully downloaded: 同心圆读书会—第4期：拥抱你的内在小孩—以爱疗愈内在的恐惧  活动招募 (size: 2423006 bytes)
+2025-01-13 04:18:18,260 - INFO - Progress: 4647/4740 - Success: 93, Failed: 0
+2025-01-13 04:18:18,260 - INFO - Skipping 2014年度同志心理健康网络调查 - already downloaded
+2025-01-13 04:18:18,260 - INFO - Progress: 4650/4740 - Success: 94, Failed: 0
+2025-01-13 04:18:18,260 - INFO - Sleeping for 10.90 seconds...
+2025-01-13 04:18:29,160 - INFO - Downloading: 2014.2.12-2014.2.18北京同志中心一周活动一览表 (Attempt 1/2)
+2025-01-13 04:18:35,831 - INFO - Successfully downloaded: 2014.2.12-2014.2.18北京同志中心一周活动一览表 (size: 2400017 bytes)
+2025-01-13 04:18:35,832 - INFO - Progress: 4646/4740 - Success: 95, Failed: 0
+2025-01-13 04:18:35,832 - INFO - Sleeping for 3.69 seconds...
+2025-01-13 04:18:39,522 - INFO - Downloading: 北京同志社群情人节热吻   期待俄罗斯撤销反同法律 (Attempt 1/2)
+2025-01-13 04:18:42,023 - INFO - Successfully downloaded: 北京同志社群情人节热吻   期待俄罗斯撤销反同法律 (size: 53014 bytes)
+2025-01-13 04:18:42,024 - INFO - Progress: 4645/4740 - Success: 96, Failed: 0
+2025-01-13 04:18:42,024 - INFO - Sleeping for 28.71 seconds...
+2025-01-13 04:19:10,733 - INFO - Downloading: 要有趣，也要深沉——彩虹虫12期后记 (Attempt 1/2)
+2025-01-13 04:19:17,393 - INFO - Successfully downloaded: 要有趣，也要深沉——彩虹虫12期后记 (size: 2407437 bytes)
+2025-01-13 04:19:17,394 - INFO - Progress: 4644/4740 - Success: 97, Failed: 0
+2025-01-13 04:19:17,394 - INFO - Sleeping for 19.86 seconds...
+2025-01-13 04:19:37,255 - INFO - Downloading: 我没有病——扭转治疗及同性恋去病理化公益讲座 (Attempt 1/2)
+2025-01-13 04:19:43,528 - INFO - Successfully downloaded: 我没有病——扭转治疗及同性恋去病理化公益讲座 (size: 2400421 bytes)
+2025-01-13 04:19:43,529 - INFO - Progress: 4643/4740 - Success: 98, Failed: 0
+2025-01-13 04:19:43,529 - INFO - Sleeping for 24.35 seconds...
+2025-01-13 04:20:07,887 - INFO - Downloading: 【中心活动】同心圆亲影会第26期——我的爱情故事 (Attempt 1/2)
+2025-01-13 04:20:16,395 - INFO - Successfully downloaded: 【中心活动】同心圆亲影会第26期——我的爱情故事 (size: 2404387 bytes)
+2025-01-13 04:20:16,396 - INFO - Progress: 4642/4740 - Success: 99, Failed: 0
+2025-01-13 04:20:16,396 - INFO - Sleeping for 2.31 seconds...
+2025-01-13 04:20:18,711 - INFO - Downloading: Facebook的56个性别，都是啥意思？（From 果壳网） (Attempt 1/2)
+2025-01-13 04:20:29,859 - WARNING - Chrome stderr: Created TensorFlow Lite XNNPACK delegate for CPU.
+...
+2025-01-13 04:20:29,862 - INFO - Successfully downloaded: Facebook的56个性别，都是啥意思？（From 果壳网） (size: 2402543 bytes)
+2025-01-13 04:20:29,862 - INFO - Progress: 4641/4740 - Success: 100, Failed: 0
+2025-01-13 04:20:29,863 - INFO - Sleeping for 5.27 seconds...
+2025-01-13 04:20:35,132 - INFO - Downloading: 【中心活动】抑郁和焦虑的正念认知小组招募启事 (Attempt 1/2)
+2025-01-13 04:20:37,072 - INFO - Successfully downloaded: 【中心活动】抑郁和焦虑的正念认知小组招募启事 (size: 53014 bytes)
+2025-01-13 04:20:37,072 - INFO - Progress: 4640/4740 - Success: 101, Failed: 0
+2025-01-13 04:20:37,073 - INFO - Sleeping for 6.20 seconds...
+2025-01-13 04:20:43,273 - INFO - Downloading: 大公司里的同志们（摘自：2014年2月10日出版的《财经天下》周刊第3期） (Attempt 1/2)
+2025-01-13 04:20:45,525 - INFO - Successfully downloaded: 大公司里的同志们（摘自：2014年2月10日出版的《财经天下》周刊第3期） (size: 53014 bytes)
+2025-01-13 04:20:45,525 - INFO - Progress: 4639/4740 - Success: 102, Failed: 0
+2025-01-13 04:20:45,526 - INFO - Sleeping for 9.98 seconds...
+2025-01-13 04:20:55,508 - INFO - Downloading: 北京同志中心2.19--2.25一周活动一览表 (Attempt 1/2)
+2025-01-13 04:21:08,720 - WARNING - Chrome stderr: Created TensorFlow Lite XNNPACK delegate for CPU.
+...
+2025-01-13 04:21:08,723 - INFO - Successfully downloaded: 北京同志中心2.19--2.25一周活动一览表 (size: 2395750 bytes)
+2025-01-13 04:21:08,723 - INFO - Progress: 4638/4740 - Success: 103, Failed: 0
+2025-01-13 04:21:08,724 - INFO - Sleeping for 26.62 seconds...
+2025-01-13 04:21:35,406 - INFO - Downloading: 继 艾伦佩姬出柜 后，鬼马超模卡拉-迪瓦伊也在正式出柜了 (Attempt 1/2)
+2025-01-13 04:21:41,981 - INFO - Successfully downloaded: 继 艾伦佩姬出柜 后，鬼马超模卡拉-迪瓦伊也在正式出柜了 (size: 2391047 bytes)
+2025-01-13 04:21:41,981 - INFO - Progress: 4637/4740 - Success: 104, Failed: 0
+2025-01-13 04:21:41,981 - INFO - Sleeping for 11.85 seconds...
+2025-01-13 04:21:53,828 - INFO - Downloading: 2014年2月22日第233期『伙影同人』——《千钧一发》 (Attempt 1/2)
+2025-01-13 04:22:00,219 - INFO - Successfully downloaded: 2014年2月22日第233期『伙影同人』——《千钧一发》 (size: 2400851 bytes)
+2025-01-13 04:22:00,219 - INFO - Progress: 4636/4740 - Success: 105, Failed: 0
+2025-01-13 04:22:00,219 - INFO - Sleeping for 15.08 seconds...
+2025-01-13 04:22:15,305 - INFO - Downloading: 酷儿瑜伽与冥想 Queer Yoga & Meditation @ The Center (Attempt 1/2)
+2025-01-13 04:22:23,044 - INFO - Successfully downloaded: 酷儿瑜伽与冥想 Queer Yoga & Meditation @ The Center (size: 2396858 bytes)
+2025-01-13 04:22:23,044 - INFO - Progress: 4635/4740 - Success: 106, Failed: 0
+2025-01-13 04:22:23,044 - INFO - Sleeping for 3.07 seconds...
+2025-01-13 04:22:26,112 - INFO - Downloading: 2014年2月26日第95次（特别版）【童心缘】“7个暗室小孩系列” (Attempt 1/2)
+2025-01-13 04:22:37,764 - WARNING - Chrome stderr: Created TensorFlow Lite XNNPACK delegate for CPU.
+...
+2025-01-13 04:22:37,765 - INFO - Successfully downloaded: 2014年2月26日第95次（特别版）【童心缘】“7个暗室小孩系列” (size: 2406213 bytes)
+2025-01-13 04:22:37,766 - INFO - Progress: 4634/4740 - Success: 107, Failed: 0
+2025-01-13 04:22:37,766 - INFO - Sleeping for 27.50 seconds...
+2025-01-13 04:23:05,271 - INFO - Downloading: 2月26号——3月4号一周活动一览表 (Attempt 1/2)
+2025-01-13 04:23:15,147 - INFO - Successfully downloaded: 2月26号——3月4号一周活动一览表 (size: 2400905 bytes)
+2025-01-13 04:23:15,147 - INFO - Progress: 4633/4740 - Success: 108, Failed: 0
+2025-01-13 04:23:15,148 - INFO - Sleeping for 2.59 seconds...
+2025-01-13 04:23:17,738 - INFO - Downloading: 形婚讨论会LES DO @ BJ LGBT Center (Attempt 1/2)
+2025-01-13 04:23:24,378 - INFO - Successfully downloaded: 形婚讨论会LES DO @ BJ LGBT Center (size: 2401043 bytes)
+2025-01-13 04:23:24,379 - INFO - Progress: 4632/4740 - Success: 109, Failed: 0
+2025-01-13 04:23:24,379 - INFO - Skipping 形婚讨论会LES DO @ BJ LGBT Center - already downloaded
+2025-01-13 04:23:24,379 - INFO - Progress: 4631/4740 - Success: 110, Failed: 0
+2025-01-13 04:23:24,379 - INFO - Sleeping for 23.00 seconds...
+2025-01-13 04:23:47,379 - INFO - Downloading: Wine Tasting Party at Capital M 前门M餐厅品酒会 (Attempt 1/2)
+2025-01-13 04:23:53,510 - INFO - Successfully downloaded: Wine Tasting Party at Capital M 前门M餐厅品酒会 (size: 2392201 bytes)
+2025-01-13 04:23:53,511 - INFO - Progress: 4630/4740 - Success: 111, Failed: 0
+2025-01-13 04:23:53,511 - INFO - Sleeping for 7.42 seconds...
+2025-01-13 04:24:00,930 - INFO - Downloading: 非弯勿扰 拉拉专场 (Attempt 1/2)
+2025-01-13 04:24:11,903 - INFO - Successfully downloaded: 非弯勿扰 拉拉专场 (size: 2395628 bytes)
+2025-01-13 04:24:11,904 - INFO - Progress: 4629/4740 - Success: 112, Failed: 0
+2025-01-13 04:24:11,904 - INFO - Sleeping for 17.10 seconds...
+2025-01-13 04:24:29,005 - INFO - Downloading: 【中心招募】2014年北京同志中心春季实习生招募启事 (Attempt 1/2)
+2025-01-13 04:24:35,420 - INFO - Successfully downloaded: 【中心招募】2014年北京同志中心春季实习生招募启事 (size: 2401777 bytes)
+2025-01-13 04:24:35,421 - INFO - Progress: 4628/4740 - Success: 113, Failed: 0
+2025-01-13 04:24:35,422 - INFO - Sleeping for 17.51 seconds...
+2025-01-13 04:24:52,929 - INFO - Downloading: 同心圆亲影会第27期——我的同志孩子，爸妈爱你 (Attempt 1/2)
+2025-01-13 04:25:07,165 - WARNING - Chrome stderr: Created TensorFlow Lite XNNPACK delegate for CPU.
+...
+2025-01-13 04:25:07,167 - INFO - Successfully downloaded: 同心圆亲影会第27期——我的同志孩子，爸妈爱你 (size: 2404163 bytes)
+2025-01-13 04:25:07,167 - INFO - Progress: 4624/4740 - Success: 114, Failed: 0
+2025-01-13 04:25:07,167 - INFO - Sleeping for 23.04 seconds...
+2025-01-13 04:25:30,206 - INFO - Downloading: 通心缘笔谈会“放纵” (Attempt 1/2)
+2025-01-13 04:25:36,773 - INFO - Successfully downloaded: 通心缘笔谈会“放纵” (size: 2406026 bytes)
+2025-01-13 04:25:36,773 - INFO - Progress: 4625/4740 - Success: 115, Failed: 0
+2025-01-13 04:25:36,773 - INFO - Skipping 酷儿瑜伽与冥想 Queer Yoga & Meditation @ The Center - already downloaded
+2025-01-13 04:25:36,773 - INFO - Progress: 4626/4740 - Success: 116, Failed: 0
+2025-01-13 04:25:36,774 - INFO - Sleeping for 8.69 seconds...
+2025-01-13 04:25:45,462 - INFO - Downloading: 北京同志中心3月5日到11日一周活动一览表 (Attempt 1/2)
+2025-01-13 04:25:51,865 - INFO - Successfully downloaded: 北京同志中心3月5日到11日一周活动一览表 (size: 2356787 bytes)
+2025-01-13 04:25:51,865 - INFO - Progress: 4627/4740 - Success: 117, Failed: 0
+2025-01-13 04:25:51,865 - INFO - Sleeping for 28.07 seconds...
+2025-01-13 04:26:19,938 - INFO - Downloading: 性倾向扭转治疗与同志心理健康网络调查 (Attempt 1/2)
+2025-01-13 04:26:29,627 - INFO - Successfully downloaded: 性倾向扭转治疗与同志心理健康网络调查 (size: 2403687 bytes)
+2025-01-13 04:26:29,628 - INFO - Progress: 4623/4740 - Success: 118, Failed: 0
+2025-01-13 04:26:29,628 - INFO - Sleeping for 1.23 seconds...
+2025-01-13 04:26:30,860 - INFO - Downloading: 【童心缘】——“7个暗室小孩系列之三” (Attempt 1/2)
+2025-01-13 04:26:38,865 - INFO - Successfully downloaded: 【童心缘】——“7个暗室小孩系列之三” (size: 2407475 bytes)
+2025-01-13 04:26:38,867 - INFO - Progress: 4622/4740 - Success: 119, Failed: 0
+2025-01-13 04:26:38,867 - INFO - Sleeping for 6.68 seconds...
+2025-01-13 04:26:45,552 - INFO - Downloading: 2014年春季北京同志中心志愿者招募启事 (Attempt 1/2)
+2025-01-13 04:26:51,925 - INFO - Successfully downloaded: 2014年春季北京同志中心志愿者招募启事 (size: 2421224 bytes)
+2025-01-13 04:26:51,925 - INFO - Progress: 4621/4740 - Success: 120, Failed: 0
+2025-01-13 04:26:51,926 - INFO - Sleeping for 4.01 seconds...
+2025-01-13 04:26:55,931 - INFO - Downloading: 【同心圆读书会】释放内心 Let it go -- 同心圆 心中的歌 (Attempt 1/2)
+2025-01-13 04:27:04,509 - INFO - Successfully downloaded: 【同心圆读书会】释放内心 Let it go -- 同心圆 心中的歌 (size: 2395007 bytes)
+2025-01-13 04:27:04,509 - INFO - Progress: 4620/4740 - Success: 121, Failed: 0
+2025-01-13 04:27:04,510 - INFO - Sleeping for 2.93 seconds...
+2025-01-13 04:27:07,443 - INFO - Downloading: 2014年3月12——18日中心一周活动一览表 (Attempt 1/2)
+2025-01-13 04:27:13,245 - INFO - Successfully downloaded: 2014年3月12——18日中心一周活动一览表 (size: 2394092 bytes)
+2025-01-13 04:27:13,246 - INFO - Progress: 4619/4740 - Success: 122, Failed: 0
+2025-01-13 04:27:13,246 - INFO - Skipping 酷儿瑜伽与冥想 Queer Yoga & Meditation @ The Center - already downloaded
+2025-01-13 04:27:13,246 - INFO - Progress: 4618/4740 - Success: 123, Failed: 0
+2025-01-13 04:27:13,247 - INFO - Sleeping for 17.18 seconds...
+2025-01-13 04:27:30,426 - INFO - Downloading: 隐藏——信剧团&同志中心公开演出 (Attempt 1/2)
+2025-01-13 04:27:37,988 - INFO - Successfully downloaded: 隐藏——信剧团&同志中心公开演出 (size: 2401619 bytes)
+2025-01-13 04:27:37,989 - INFO - Progress: 4617/4740 - Success: 124, Failed: 0
+2025-01-13 04:27:37,989 - INFO - Sleeping for 25.80 seconds...
