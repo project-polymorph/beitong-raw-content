@@ -1,0 +1,3 @@
+[submodule "auto-archive-web"]
+	path = auto-archive-web
+	url = https://github.com/project-polymorph/auto-archive-web
